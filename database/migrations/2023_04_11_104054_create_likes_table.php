@@ -18,9 +18,10 @@ return new class extends Migration
             $table->timestamp('fecha_creacion')->nullable();
             $table->timestamps();
 
+            //hola
         });
 
-        
+
     }
 
     /**
